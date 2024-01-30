@@ -1,0 +1,30 @@
+.ChannelRow_image{
+    border-radius: 50%;
+    border : solid 3px white;
+    width: 40px;
+    height: 40px;
+}
+.ChannelRow{
+    display: flex;
+    align-items: center;
+    width: 70%;
+
+}
+.ChannelRow_text{
+    display: flex;
+    flex-direction: column;
+}
+.ChannelRow_text>p{
+    color:#606060;
+    font-size: small !important;
+}
+.ChannelRow_image{
+    height:120px !important;
+    width:120px !important;
+    margin:10px 60px;   
+}
+.ChannelRow>h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

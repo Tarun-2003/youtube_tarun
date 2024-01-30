@@ -1,0 +1,38 @@
+.SidebarRow{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+.SidebarRow>i{
+    color:#606060;
+    font-size:large !important;
+}
+.SidebarRow>h1{
+ flex:1;
+ margin-left:20px;
+ font-weight: 500;
+ font-size: 12px;
+
+}
+.SidebarRow:hover{
+    background-color:lightgray;
+    cursor: pointer;
+
+}
+
+.SidebarRow:hover>i{
+    color:red;
+}
+.SidebarRow:hover>h1{
+    font-weight:bold;
+}
+.SidebarRow.selected{
+    background-color:lightgray;
+
+}
+.SidebarRow.selected> i{
+    color:red;
+}
+.SidebarRow.selected>h1{
+    font-weight:bold;
+}
