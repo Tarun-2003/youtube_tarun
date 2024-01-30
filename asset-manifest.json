@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/youtube_tarun/static/css/main.cbf3b386.css",
+    "main.js": "/youtube_tarun/static/js/main.7488bb97.js",
+    "static/js/787.a9a47320.chunk.js": "/youtube_tarun/static/js/787.a9a47320.chunk.js",
+    "index.html": "/youtube_tarun/index.html",
+    "main.cbf3b386.css.map": "/youtube_tarun/static/css/main.cbf3b386.css.map",
+    "main.7488bb97.js.map": "/youtube_tarun/static/js/main.7488bb97.js.map",
+    "787.a9a47320.chunk.js.map": "/youtube_tarun/static/js/787.a9a47320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf3b386.css",
+    "static/js/main.7488bb97.js"
+  ]
+}
